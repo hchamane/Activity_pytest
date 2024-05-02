@@ -1,0 +1,2 @@
+# Jupyter Notebook Activity - pytest
+The task at hand requires you to explore pytest, a testing framework used in the Python programming language. I will experiment with pytest, a popular tool for testing software applications and ensuring their correctness. By using pytest, I will write and execute test codes that will help me identify bugs, errors, and other issues in this test. The aim is to help me gain proficiency in using pytest for testing purposes and improve the quality of your software.
